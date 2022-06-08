@@ -1,0 +1,9 @@
+box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    margin: 1rem;
+    background: linear-gradient(90deg, rgba(255,247,234,1) 0%, rgba(244,247,254,1) 35%, rgba(247,251,254,1) 100%);
+}
