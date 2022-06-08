@@ -1,10 +1,5 @@
-(setq markdown-css-paths '("./custom.css"))
 ### Hi, I'm Agnieszka!👋
 
-<box>
-### agnieszkabury
-## FRONTEND DEVELOPER
-</box>
 
 ### 📫 How to reach me
 
