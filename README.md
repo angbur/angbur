@@ -2,7 +2,23 @@
 
 ![Agnieszka Bury | FRONTEND DEVELOPER](baner.png)
 
-### 📫 How to reach me
+## 🏆 My stats
+
+![image](https://github-readme-stats.vercel.app/api?username=angbur) <br>
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=angbur)
+
+![image](https://github-profile-trophy.vercel.app/?username=angbur)
+
+<br>
+
+![image](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)<br>
+
+![image](https://www.codewars.com/users/angbur/badges/small)
+
+<br>
+
+## 📫 How to reach me
 
 - LinkedIn: [linkedin.com/in/angbur/](https://www.linkedin.com/in/angbur)
 - email: agnieszkaburydev@gmail.com
