@@ -1,5 +1,6 @@
 ### Hi, I'm Agnieszka!👋
 
+![Agnieszka Bury | FRONTEND DEVELOPER](baner.png"Agnieszka Bury").
 
 ### 📫 How to reach me
 
