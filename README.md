@@ -8,8 +8,6 @@
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=angbur)
 
-![image](https://github-profile-trophy.vercel.app/?username=angbur)
-
 <br>
 
 ![image](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)<br>
