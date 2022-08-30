@@ -4,9 +4,9 @@
 
 ## 🏆 My stats
 
-![image](https://github-readme-stats.vercel.app/api?username=angbur) <br>
+![image](https://github-readme-stats.vercel.app/api?username=angbur&show_icons=true&count_private=true&theme=cobalt&hide=contribs,stars) <br>
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=angbur)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=angbur&show_icons=true&theme=cobalt)
 
 <br>
 
